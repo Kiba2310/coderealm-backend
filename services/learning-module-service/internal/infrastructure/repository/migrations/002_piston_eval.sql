@@ -1,0 +1,1 @@
+ALTER TABLE lessons ADD COLUMN IF NOT EXISTS test_code TEXT;
